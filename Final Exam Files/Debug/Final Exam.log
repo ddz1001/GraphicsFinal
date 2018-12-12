@@ -1,0 +1,5 @@
+﻿  scene0.cpp
+c:\users\dante\desktop\finalexam\scene0.cpp(46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dante\desktop\finalexam\scene0.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dante\desktop\finalexam\scene0.cpp(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
